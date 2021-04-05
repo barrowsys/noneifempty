@@ -1,8 +1,8 @@
 # noneifempty
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/barrowsys/noneifempty)](https://github.com/barrowsys/noneifempty)
-[![Crates.io](https://img.shields.io/crates/v/noneifempty)](https://crates.io/crates/none_if_empty/)
-[![Docs.rs](https://docs.rs/noneifempty/badge.svg)](https://docs.rs/none_if_empty)
+[![Crates.io](https://img.shields.io/crates/v/noneifempty)](https://crates.io/crates/noneifempty/)
+[![Docs.rs](https://docs.rs/noneifempty/badge.svg)](https://docs.rs/noneifempty)
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
 ## About
