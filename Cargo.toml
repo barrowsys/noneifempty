@@ -1,0 +1,14 @@
+[package]
+name = "noneifempty"
+version = "0.1.0"
+authors = ["Ezra Barrow <barrow@tilde.team>"]
+edition = "2018"
+description = "Convert T to None if empty"
+readme = "README.md"
+repository = "https://github.com/barrowsys/noneifempty"
+license = "MIT"
+categories = ["rust-patterns", "parsing", "text-processing", "value-formatting"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
