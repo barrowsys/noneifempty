@@ -14,7 +14,7 @@ Adds a trait NoneIfEmpty that converts a T to an Option<T> by turning an empty T
 Add to your Cargo.toml:
 ```
 [dependencies]
-noneifempty = "0.1.0"
+noneifempty = "0.1.2"
 ```
 
 ## Examples
