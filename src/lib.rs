@@ -1,6 +1,9 @@
 /*
  * --------------------
- * THIS FILE IS LICENSED UNDER MIT
+ * THIS FILE IS LICENSED UNDER THE TERMS OF THE FOLLOWING LICENSE
+ *
+ * This code may not be used for any purpose. Be gay, do crime.
+ *
  * THE FOLLOWING MESSAGE IS NOT A LICENSE
  *
  * <barrow@tilde.team> wrote this file.
