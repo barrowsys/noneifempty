@@ -2,7 +2,7 @@
  * --------------------
  * THIS FILE IS LICENSED UNDER THE TERMS OF THE FOLLOWING LICENSE
  *
- * This code may not be used for any purpose. Be gay, do crime.
+ * this code and any software derived from it may not be used for any purpose. be gay, do crime.
  *
  * THE FOLLOWING MESSAGE IS NOT A LICENSE
  *
